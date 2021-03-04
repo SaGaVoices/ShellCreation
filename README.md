@@ -18,6 +18,6 @@ The given repository contains the code of how to make your own shell in C and ru
 
 ## How to run it on your terminal?
 
--Download the libreadline-dev library if your system doesn't have. You can use the command: 'sudo apt-get install libreadline-dev' for that.
--Compile the file using the following command: 'gcc shell.c -lreadine'
--Run the a.out file (./a.out)
+- Download the libreadline-dev library if your system doesn't have. You can use the command: 'sudo apt-get install libreadline-dev' for that.
+- Compile the file using the following command: 'gcc shell.c -lreadine'
+- Run the a.out file (./a.out)
