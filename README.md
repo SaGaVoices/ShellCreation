@@ -3,17 +3,17 @@
 The given repository contains the code of how to make your own shell in C and run it on linux terminal.
 
 ## The constructed shell supports following internal commands:
--clr
--pause
--help
--quit
--history
--cd
--pwd
--dir
--environ
--echo
--myshell <batchfile> (where <batchfile> is a textfile containing the internal commands to be ran on the shell)
+- clr
+- pause
+- help
+- quit
+- history
+- cd
+- pwd
+- dir
+- environ
+- echo
+- myshell <batchfile> (where <batchfile> is a textfile containing the internal commands to be ran on the shell)
 
 
 ## How to run it on your terminal?
