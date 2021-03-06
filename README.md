@@ -13,7 +13,7 @@ The given repository contains the code of how to make your own shell in C and ru
 - dir
 - environ
 - echo
-- myshell <batchfile> (where <batchfile> is a textfile containing the internal commands to be ran on the shell)
+- myshell batchfile (where batchfile is a textfile containing the internal commands to be ran on the shell)
 
 
 ## How to run it on your terminal?
